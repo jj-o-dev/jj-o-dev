@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm João Paulo *aka JJ*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jj-o-dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jj-o-dev&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@3f7d34aa-9a87-4989-b1c6-213ef5b2d096/fab3ecfc-2bea-4566-b631-c51bcce7ab98.png" height="350" /></a>
 <!--
 **jj-o-dev/jj-o-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
