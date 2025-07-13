@@ -1,5 +1,5 @@
 # 👋 About Me:
-☕ - Studying Java + some front-end<br><br>💪 - Available for hiring or other opportunities to learn/contribute<br><br>🍀 - Trying to be a better person each day
+☕ - Studying Java + Spring<br><br>💪 - Available for hiring or other opportunities to learn/contribute<br><br>🍀 - Trying to be a better person each day
 
 
 ## 💬 Socials:
